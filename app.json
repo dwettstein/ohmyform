@@ -63,8 +63,7 @@
   },
   "addons": [
     "heroku-postgresql",
-    "heroku-redis",
-    "mailtrap"
+    "heroku-redis"
   ],
   "buildpacks": [
     {
